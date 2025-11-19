@@ -1,4 +1,4 @@
-MPT-v0.2-zenodo-expanded.pdf ← (you just showed the title page – perfect)
+MPT-v0.2-zenodo-expanded.pdf
 MPT-v0.2-zenodo-expanded.tex
 MPT-v0.2-calibration.ipynb
 MPT-v0.2-parameters.json

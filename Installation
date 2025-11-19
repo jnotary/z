@@ -1,0 +1,3 @@
+git clone https://github.com/jnotary/z.git
+cd z
+pip install -r requirements.txt

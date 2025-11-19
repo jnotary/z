@@ -1,6 +1,4 @@
-# Z ENGINE PROJECT 
-
- Z engine Project
+~ Z LYFE - LIFE AND TECHNOLOGY IN HARMONY ",) ~
 
                      Z Model  --->  Z(Q)
 

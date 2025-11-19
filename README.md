@@ -1,9 +1,26 @@
-# z
-The Z Model — Unified Theory for AGI Cognition, Z(Q) Ethics, and the MPT Cosmological Framework. Master repository for equations, specifications, and scientific foundations
+# Z ENGINE PROJECT 
+
+ Z engine Project
+
+                     Z Model  --->  Z(Q)
+
+   MPT (Mass Particle Theory)   <--->   AGI
+
+   Physics                       Code
+   Cosmology                     A_D (Artificial Development)
+   Quantum Biology               Infra
+   Black Holes                   Plat
+   Chemistry                     Governance
+   Geology etc.                  (etc.)
+
+The Z Model — Unified Theory for AGI Cognition, Z(Q) Ethics, and the MPT Cosmological Framework. 
+
+** Master repository for equations, specifications, and scientific foundations ** 
+
 # Z Model: Unified Theory for AGI Cognition, Z(Q) Ethics, and the MPT Cosmological Framework
 
 **Author:** Jason Notary (@jnotary)  
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **License:** MIT
 
 ---
